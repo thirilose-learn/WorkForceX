@@ -121,13 +121,21 @@ Current activities include:
 
 ## Project Team
 
-| Team Member               | GitHub          |
-| ------------------------- | --------------- |
-| Thirilose Jones Nithish R | thirilose-learn |
-| Kalyan G                  | kalyan-0911     |
-| Sabitha R J               | sabitha2311     |
-| Kavya S                   | kavyas0215-bit  |
-| Sowndaryagowri N          | sowndigowri     |
+| Team Member               | GitHub Profile                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Thirilose Jones Nithish R | [@thirilose-learn](https://github.com/thirilose-learn) |
+| Kalyan G                  | [@kalyan-0911](https://github.com/kalyan-0911)         |
+| Sabitha R J               | [@sabitha2311](https://github.com/sabitha2311)         |
+| Kavya S                   | [@kavyas0215-bit](https://github.com/kavyas0215-bit)   |
+| Sowndaryagowri N          | [@sowndigowri](https://github.com/sowndigowri)         |
+
+### Team Responsibilities
+
+* **Project Lead & Repository Management:** Thirilose Jones Nithish R
+* **Research & Documentation:** Team Work
+* **Data Collection & Preprocessing:** Team Work
+* **Analysis & Development:** Team Work
+* **Presentation & Demonstration:** Team Work
 
 ---
 
